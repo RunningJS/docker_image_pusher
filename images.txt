@@ -1,2 +1,3 @@
 amilys/embyserver
 jxxghp/moviepilot
+amilys/embyserver:beta
